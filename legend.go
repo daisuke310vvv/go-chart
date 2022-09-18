@@ -1,8 +1,6 @@
 package chart
 
-import (
-	"github.com/wcharczuk/go-chart/v2/drawing"
-)
+import "github.com/daisuke310vvv/go-chart/v2/drawing"
 
 // Legend returns a legend renderable function.
 func Legend(c *Chart, userDefaults ...Style) Renderable {
