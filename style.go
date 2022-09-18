@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/daisuke310vvv/go-chart/v2/drawing"
 	"github.com/golang/freetype/truetype"
-	"github.com/wcharczuk/go-chart/v2/drawing"
 )
 
 const (

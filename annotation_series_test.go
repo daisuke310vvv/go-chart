@@ -4,8 +4,8 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/wcharczuk/go-chart/v2/drawing"
-	"github.com/wcharczuk/go-chart/v2/testutil"
+	"github.com/daisuke310vvv/go-chart/v2/drawing"
+	"github.com/daisuke310vvv/go-chart/v2/testutil"
 )
 
 func TestAnnotationSeriesMeasure(t *testing.T) {

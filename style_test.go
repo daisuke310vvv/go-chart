@@ -3,9 +3,9 @@ package chart
 import (
 	"testing"
 
+	"github.com/daisuke310vvv/go-chart/v2/drawing"
+	"github.com/daisuke310vvv/go-chart/v2/testutil"
 	"github.com/golang/freetype/truetype"
-	"github.com/wcharczuk/go-chart/v2/drawing"
-	"github.com/wcharczuk/go-chart/v2/testutil"
 )
 
 func TestStyleIsZero(t *testing.T) {
